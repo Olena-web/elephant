@@ -2,7 +2,7 @@
 
 The deployed app is here: https://mlatysheva.github.io/project-management-app/
 <br>
-The source code is kept in the `main` branch: [https://github.com/mlatysheva/project-management-app/tree/develop ](https://github.com/Olena-web/elephant/tree/main/src)
+The source code is kept in the `main` branch: https://github.com/Olena-web/elephant/tree/main/src
 ## Your favourite app to track the progress of your projects
 
 This app was created by our team as part of the React course from Rolling Scopes School:
